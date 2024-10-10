@@ -2,3 +2,5 @@ __pycache__
 venv/
 .env
 test.js
+session_name.session
+bot_session.session
